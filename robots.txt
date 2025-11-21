@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pieroguillen-hue.github.io/Piero_Jose_Guillen_Soana_Pagina/sitemap.xml
